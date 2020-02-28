@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745764594630",
+    "firebase_url": "https://flash-chat-trial.firebaseio.com",
+    "project_id": "flash-chat-trial",
+    "storage_bucket": "flash-chat-trial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745764594630:android:158687e74bcaf0f18ac8c7",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745764594630-ermbcva9dap7on8n75vmp6mfi90lm30m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxiKD3Y58KQhxGRh15VSshSMHiwIQ5Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745764594630-ermbcva9dap7on8n75vmp6mfi90lm30m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
